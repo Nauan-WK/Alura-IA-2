@@ -16,9 +16,6 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    border-style: solid;
-    border-radius: 20px;
-    border-color: white;
 }
 
 .caixa-principal{
@@ -27,6 +24,9 @@ body {
     max-width: 600px;
     text-align: center;
     padding: 20px;
+    border-style: solid;
+    border-radius: 20px;
+    border-color: white;
 }
 
 h1, .caixa-perguntas, .caixa-resultado{
